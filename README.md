@@ -1,6 +1,6 @@
-# EasyPark – Real-Time Parking Slot Detection System
+# Smart-Slot – Real-Time Parking Slot Detection System
 
-**EasyPark** is a computer vision-based application for detecting available and occupied parking slots in real-time from video feeds. Built using **OpenCV**, **NumPy**, and **cvzone**, this project processes video inputs, identifies parking slot occupancy based on pixel analysis, and displays real-time availability with color-coded indicators.
+**Smart-Slot** is a computer vision-based application for detecting available and occupied parking slots in real-time from video feeds. Built using **OpenCV**, **NumPy**, and **cvzone**, this project processes video inputs, identifies parking slot occupancy based on pixel analysis, and displays real-time availability with color-coded indicators.
 
 ## Features
 
